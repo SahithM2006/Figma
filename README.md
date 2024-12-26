@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-# Date:
+# Date:31/10/2024
 # AIM:
 To design, develop and deploy a web application for event registration.
 
@@ -56,7 +56,34 @@ LIST OF SPORTS
 EVENT REGISTRATION FORM
 ```
 <img style="width: 535px; height: 102px" src="https://via.placeholder.com/535x102" />
+<div style="width: 497px; height: 68px; color: white; font-size: 32px; font-family: Inter; font-style: italic; font-weight: 600; word-wrap: break-word">EVENT REGISTRATION FORM</div>
+<div style="color: white; font-size: 14px; font-family: Inter; font-style: italic; font-weight: 600; word-wrap: break-word">FILL IN THE DETAILS</div>
+<img style="width: 548px; height: 880px" src="https://via.placeholder.com/548x880" />
+<div style="width: 395px; height: 40px; background: #D9D9D9"></div>
+<div style="color: black; font-size: 24px; font-family: Inter; font-style: italic; font-weight: 600; word-wrap: break-word">FULL NAME</div>
+<div style="width: 395px; height: 40px; background: #D9D9D9"></div>
+<div style="color: black; font-size: 24px; font-family: Inter; font-style: italic; font-weight: 600; word-wrap: break-word">GENDER</div>
+<div style="width: 395px; height: 40px; background: #D9D9D9"></div>
+<div style="color: black; font-size: 24px; font-family: Inter; font-style: italic; font-weight: 600; word-wrap: break-word">AGE</div>
+<div style="width: 395px; height: 40px; background: #D9D9D9"></div>
+<div style="color: black; font-size: 24px; font-family: Inter; font-style: italic; font-weight: 600; word-wrap: break-word">REGISTERED NUMBER</div>
+<div style="width: 395px; height: 40px; background: #D9D9D9"></div>
+<div style="color: black; font-size: 24px; font-family: Inter; font-style: italic; font-weight: 600; word-wrap: break-word">DEPARTMENT</div>
+<div style="width: 395px; height: 40px; background: #D9D9D9"></div>
+<div style="color: black; font-size: 24px; font-family: Inter; font-style: italic; font-weight: 600; word-wrap: break-word">MOBILE NUMBER</div>
+<div style="width: 395px; height: 40px; background: #D9D9D9"></div>
+<div style="color: black; font-size: 24px; font-family: Inter; font-style: italic; font-weight: 600; word-wrap: break-word">EMAIL ID</div>
+<div style="width: 395px; height: 40px; background: #D9D9D9"></div>
+<div style="color: black; font-size: 24px; font-family: Inter; font-style: italic; font-weight: 600; word-wrap: break-word">EVENTS FOR REGISTER</div>
+```
+THANK YOU
+```
+<img style="width: 525px; height: 102px" src="https://via.placeholder.com/525x102" />
+<div style="color: white; font-size: 36px; font-family: Inter; font-style: italic; font-weight: 600; word-wrap: break-word">Chase Your Dreams</div>
+<img style="width: 525px; height: 884px" src="https://via.placeholder.com/525x884" />
 ```
 # OUTPUT:
+![Screenshot 2024-12-26 114628](https://github.com/user-attachments/assets/f71fbcfd-6543-4cf0-8cdf-cd8d73d8e4f1)
+
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
